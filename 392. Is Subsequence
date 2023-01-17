@@ -1,5 +1,4 @@
-//is subsequence.cpp
-//Leet code 58
+
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
